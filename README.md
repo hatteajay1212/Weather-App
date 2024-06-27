@@ -1,5 +1,5 @@
 # WeatherApp
-WeatherNow is a sleek and user-friendly weather application that provides real-time weather data and a detailed daywise forecast.This Application is written in SwiftUI.
+WeatherApp is a sleek and user-friendly weather application that provides real-time weather data and a detailed daywise forecast.This Application is written in SwiftUI.
 
 ## Features
 1. Current Weather Data : Get up-to-date information on temperature, humidity, pressure, sea level and ground level for the location you have searched for.
