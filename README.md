@@ -28,3 +28,14 @@ Combine was used to:
 3. You can enter the location for which you want to see weather data and then click on submit , it will fetch new data.
 4. Detailed forecast for any day from daywise forecast section can be seen by clicking on Card of any daywise data.
 5. You can refresh the screen data using refresh icon at the top.
+
+## Screenshots
+
+<p align="center">
+  <img src="light-mode.png" alt="Screenshot 1" width="240" height = "400">
+  <img src="light-mode-detailed.png" alt="Screenshot 2" width="240" height = "400">
+</p>
+<p align="center">
+  <img src="dark-mode.png" alt="Screenshot 1" width="240" height = "400">
+  <img src="dark-mode-detailed.png" alt="Screenshot 2" width="240" height = "400">
+</p>
